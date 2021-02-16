@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Contador
+comment0.text=\r\n\ Cuenta\ cuantos\ numeros\ positivos,\ negativos\ y\ ceros\ han\ salido\ de\ una\ cantidad\ de\ numeros\ n\r\n\ \r\n\ @author\ (Roberto\ Alarcon\ Bardon)\ \r\n\ @version\ (16/02/2021)\r\n
+comment1.params=
+comment1.target=Contador()
+comment1.text=\r\n\ Crea\ un\ objeto\ contador\r\n
+comment2.params=cantidadDeNumeros
+comment2.target=void\ cuenta(int)
+comment2.text=\r\n\ Cuenta\r\n
+numComments=3
